@@ -1,4 +1,4 @@
-# Hi there, I'm Anthony (statarbRS) 👋
+# Hi there, I'm Anthony Qi (statarbRS) 👋
 
 **Profession:** Analyst  
 **Main Skill:** Python 🐍
